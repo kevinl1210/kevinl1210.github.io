@@ -1,2 +1,6 @@
 features 2!!!
+<<<<<<< HEAD
 nope, features should be modified in this way!!
+=======
+oops, features2 modified!!
+>>>>>>> new_features
